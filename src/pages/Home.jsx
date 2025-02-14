@@ -344,7 +344,7 @@ function Home() {
                 </div>
                 <div className="flex items-center gap-2">
                   <Phone className="w-5 h-5 text-blue-100" />
-                  <p className="text-gray-300">+1 234 567 890</p>
+                  <p className="text-gray-300">+57 3105604566</p>
                 </div>
                 <div className="flex items-center gap-2">
                   <Mail className="w-5 h-5 text-blue-100" />
